@@ -1,0 +1,13 @@
+{
+  "path": "D:/Documents/svn/srpg/doc/游戏/DNK/版本管理/数值表同步",
+  "db_config": {
+    "db_game_design": {
+      "host": "10.10.10.95",
+      "port": 2433,
+      "database": "db_game_design",
+      "user": "root",
+      "password": "htdba",
+      "connectionLimit": 10
+    }
+  }
+}

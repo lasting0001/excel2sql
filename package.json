@@ -1,0 +1,43 @@
+{
+  "name": "excel2sql",
+  "version": "1.0.0",
+  "description": "A tool for transfer excel file to sql",
+  "keywords": [
+    "excel",
+    "sql",
+    "xls",
+    "xlsx"
+  ],
+  "license": "Apache-2.0",
+  "main": "./index",
+  "author": "jun.li <514332157@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasting0001/excel2sql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lasting0001/excel2sql/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "vows"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ext4js": "^1.0.4",
+    "inquirer": "^1.0.2",
+    "linebyline": "^1.3.0",
+    "node-db": "",
+    "q": "^1.4.1",
+    "xlsx": "^0.8.0"
+  },
+  "devDependencies": {},
+  "browser": {
+    "os": false
+  },
+  "homepage": "https://github.com/lasting0001/excel2sql#readme"
+}
